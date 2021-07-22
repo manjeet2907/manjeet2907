@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @manjeet2907
-- 👀 I’m interested in Full Stack Develoment, Javascript Programming and Python Programming
-- 🌱 I’m currently learning Javascrit
+- 👀 I’m interested in Full Stack Develoment,MERN full stack,PHP Developer, Javascript and Python Programming
 - 📫 How to reach me Drop an Email to manjeet29saini@gmail.com
 
 <!---
